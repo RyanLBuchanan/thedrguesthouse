@@ -12,13 +12,13 @@ h1 {
   margin: 0;
   padding: 20px 0;
   color: #1A5750;
-  text-shadow: #572711;
+  text-shadow: #A34B49;
 }
 
 h2 {
   text-align: center;
-  color: #1A5750;
-  text-shadow: #42A398;
+  color: #42A398;
+  text-shadow: #1A5750;
 }
 
 h3 {
@@ -26,7 +26,11 @@ h3 {
 }
 
 h4 {
-  color: #42A398;
+  color: #F0AC48;
+}
+
+h5 {
+  color: #A34B49;
 }
 
 p, li {
@@ -53,7 +57,6 @@ body {
   margin: 5 auto;
   padding:0 20px 20px 20px;
   width:auto;
-  /* border:4px solid black; */
 }
 
 html {
