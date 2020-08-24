@@ -12,21 +12,21 @@ h1 {
   margin: 0;
   padding: 20px 0;
   color: #1A5750;
-  text-shadow: #F07A78;
+  text-shadow: #572711;
 }
 
 h2 {
   text-align: center;
   color: #1A5750;
-  text-shadow: #78F0E2;
+  text-shadow: #42A398;
 }
 
 h3 {
-  color: #378A80;
+  color: #42A398;
 }
 
 h4 {
-  color: #28635C;
+  color: #42A398;
 }
 
 p, li {
@@ -44,7 +44,7 @@ p, li {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width:25%;
+  width:50%;
 }
 
 }
