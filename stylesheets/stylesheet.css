@@ -12,45 +12,41 @@ h1 {
   margin: 0;
   padding: 20px 0;
   color: #1A5750;
-  text-shadow: #A34B49;
+  text-shadow: 3px 3px 10px gray;
 }
 
 h2 {
   text-align: center;
   color: #42A398;
-  text-shadow: #1A5750;
+  text-shadow: 3px 3px 15px gray;
 }
 
 h3 {
-  color: #42A398;
+  color:  #42A398;
+  text-shadow: 3px 3px 15px gray;
 }
 
 h4 {
   color: #F0AC48;
+  text-shadow: 3px 3px 15px gray;
 }
 
 h5 {
   color: #A34B49;
 }
 
-p, li {
+.para {
   font-size: 17px;
-  /* line-height: 2;
-  letter-spacing: 1px; */
+  color: #154673;
 }
 
-.para {
-  font-size: 15px;
-  color: #42A398;
-}
+
 
 .img-logo {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width:50%;
-}
-
+  width: 75%;
 }
 
 body {
