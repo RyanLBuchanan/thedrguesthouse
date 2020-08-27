@@ -9,9 +9,9 @@ var splashImage = document.querySelector('img');
 splashImage.onclick = function() {
   var myImages = splashImage.getAttribute('src');
   if (myImages === 'images/gsthse_images/bdrm_rt.jpg') {
-    splashImage.setAttribute ('src', 'images/gsthse_images/lvgrm_ktch.jpg');
+    splashImage.setAttribute('src', 'images/gsthse_images/lvgrm_ktch.jpg');
   } else {
-    splashImage.setAttribute ('src', 'images/gsthse_images/bdrm_rt.jpg');
+    splashImage.setAttribute('src', 'images/gsthse_images/bdrm_rt.jpg');
   }
 
 }

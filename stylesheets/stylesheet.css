@@ -1,8 +1,8 @@
 p {
-  color: #28635C ;
+  color: #28635C;
   font-size: 17px;
   margin: 5 auto;
-  padding:10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
   border: 1px solid #572711;
 }
 
@@ -22,7 +22,7 @@ h2 {
 }
 
 h3 {
-  color:  #42A398;
+  color: #42A398;
   text-shadow: 3px 3px 15px gray;
 }
 
@@ -40,8 +40,6 @@ h5 {
   color: #154673;
 }
 
-
-
 .img-logo {
   display: block;
   margin-left: auto;
@@ -51,8 +49,8 @@ h5 {
 
 body {
   margin: 5 auto;
-  padding:0 20px 20px 20px;
-  width:auto;
+  padding: 0 20px 20px 20px;
+  width: auto;
 }
 
 html {
